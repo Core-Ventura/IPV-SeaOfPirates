@@ -1,0 +1,55 @@
+2018-04-11T11:18:34.621Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-11T11:18:34.625Z - normal: checking language setting...
+2018-04-11T11:18:34.625Z - normal: Language: en
+2018-04-11T11:18:36.476Z - success: protocol editor-framework registered
+2018-04-11T11:18:36.476Z - success: protocol app registered
+2018-04-11T11:18:36.477Z - success: protocol theme registered
+2018-04-11T11:18:36.477Z - success: protocol packages registered
+2018-04-11T11:18:36.477Z - success: protocol unpack registerred
+2018-04-11T11:18:36.477Z - success: protocol disable-commonjs registerred
+2018-04-11T11:18:38.037Z - normal: connected!
+2018-04-11T11:18:38.039Z - normal: Check project D:\MÁSTER\Introducción a la Programación de Videojuegos\ACTIVIDADES\ACTIVIDAD FINAL\IPV-SeaOfPirates
+2018-04-11T11:18:38.042Z - normal: Initializing Cocos2d
+2018-04-11T11:18:38.257Z - normal: Initializing Asset Database
+2018-04-11T11:18:38.295Z - success: protocol uuid registerred
+2018-04-11T11:18:38.296Z - success: protocol db registerred
+2018-04-11T11:18:38.296Z - success: protocol thumbnail registerred
+2018-04-11T11:18:38.296Z - normal: Loading editor/builtin packages
+2018-04-11T11:18:38.316Z - success: anysdk loaded
+2018-04-11T11:18:38.441Z - success: assets loaded
+2018-04-11T11:18:38.443Z - success: builder loaded
+2018-04-11T11:18:38.445Z - success: cocos-analytics loaded
+2018-04-11T11:18:38.448Z - success: console loaded
+2018-04-11T11:18:38.482Z - success: fb-instant-games loaded
+2018-04-11T11:18:38.484Z - success: hierarchy loaded
+2018-04-11T11:18:38.487Z - success: inspector loaded
+2018-04-11T11:18:38.488Z - success: keystore loaded
+2018-04-11T11:18:38.492Z - success: node-library loaded
+2018-04-11T11:18:38.493Z - success: package-asset loaded
+2018-04-11T11:18:38.496Z - success: preferences loaded
+2018-04-11T11:18:38.498Z - success: project-exporter loaded
+2018-04-11T11:18:38.515Z - success: project-importer loaded
+2018-04-11T11:18:38.517Z - success: project-settings loaded
+2018-04-11T11:18:38.519Z - success: ui-kit loaded
+2018-04-11T11:18:38.520Z - success: ui-grid loaded
+2018-04-11T11:18:38.523Z - success: scene loaded
+2018-04-11T11:18:38.524Z - success: sprite-editor loaded
+2018-04-11T11:18:38.528Z - success: store loaded
+2018-04-11T11:18:38.532Z - success: timeline loaded
+2018-04-11T11:18:38.532Z - normal: Loading builtin packages
+2018-04-11T11:18:38.535Z - success: asset-db-debugger loaded
+2018-04-11T11:18:38.536Z - success: code-editor loaded
+2018-04-11T11:18:38.536Z - success: color-picker loaded
+2018-04-11T11:18:38.538Z - success: package-manager loaded
+2018-04-11T11:18:38.543Z - success: sdkbox loaded
+2018-04-11T11:18:38.545Z - success: tester loaded
+2018-04-11T11:18:38.546Z - success: ui-kit-preview-extra loaded
+2018-04-11T11:18:38.547Z - success: ui-kit-preview loaded
+2018-04-11T11:18:38.548Z - success: ui-tree loaded
+2018-04-11T11:18:39.689Z - normal: Initializing project D:\MÁSTER\Introducción a la Programación de Videojuegos\ACTIVIDADES\ACTIVIDAD FINAL\IPV-SeaOfPirates
+2018-04-11T11:18:39.692Z - normal: Loading packages
+2018-04-11T11:18:39.695Z - normal: Watching packages
+2018-04-11T11:18:39.707Z - normal: Run Application
+2018-04-11T11:18:40.096Z - success: preview server running at http://localhost:7456
+2018-04-11T11:18:43.880Z - normal: 1.9.0
+2018-04-11T11:21:26.983Z - info: shutdown preview server

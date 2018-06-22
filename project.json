@@ -1,0 +1,25 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 1,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d","chipmunk"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/GameScene.js",
+        "src/Barco.js",
+        "src/BombaJugador.js",
+        "src/Rescate.js",
+        "src/BarcoPirata.js",
+        "src/GameOverLayer.js",
+        "src/VictoryLayer.js",
+        "src/BombaPirata.js"
+    ]
+}
